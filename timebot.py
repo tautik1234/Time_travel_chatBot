@@ -318,7 +318,7 @@ def display_events_interface(events, year, perplexity_api_key, gemini_api_key, s
                               selected_event['perspectives'], key="perspective_selector")
     
     # Generate button
-    if st.button("✨ Generate Time Travel Experience", use_container_width=True, key="generate_btn"):
+    if st.button("✨ Generate Time Travel Experience", use_column_width=True, key="generate_btn"):
         with st.spinner("🚀 Creating your time travel experience..."):
             # Generate story (will use KB if available)
             story = generate_story(selected_event, perspective, year, gemini_api_key)
@@ -371,7 +371,7 @@ def display_generated_content():
         st.markdown("### 🖼️ Generated Historical Scene")
         try:
             image = Image.open(io.BytesIO(content['image_bytes']))
-            st.image(image, use_container_width=True, caption=f"{content['event']['event']} - {content['perspective']} perspective")
+            st.image(image, use_column_width=True, caption=f"{content['event']['event']} - {content['perspective']} perspective")
         except Exception as e:
             st.error(f"❌ Error displaying image: {str(e)}")
     
@@ -431,7 +431,7 @@ def main():
     
     with col2:
         st.markdown("<br>", unsafe_allow_html=True)
-        search_clicked = st.button("🔍 Search Historical Events", use_container_width=True, key="search_btn")
+        search_clicked = st.button("🔍 Search Historical Events", use_column_width=True, key="search_btn")
     
     # Store events in session state to prevent re-fetching
     if search_clicked and year_input:
@@ -466,4 +466,5 @@ def main():
 # Run the app
 if __name__ == "__main__":
     main()
+
 
