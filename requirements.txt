@@ -1,11 +1,25 @@
-pip==25.2
+# Core framework
 streamlit==1.28.2
+
+# HTTP requests
 requests==2.31.0
+
+# Google Generative AI
 google-generativeai==0.3.2
+
+# Text-to-speech
 gtts==2.3.2
+
+# Image handling
 Pillow==10.1.0
+
+# Environment variables
 python-dotenv==1.0.0
+
+# Markdown parsing
 markdown-it-py==4.0.0
 mdurl==0.1.2
+
+# Syntax highlighting & rich console
 pygments==2.19.2
 rich==14.1.0
