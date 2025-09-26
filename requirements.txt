@@ -22,4 +22,4 @@ mdurl==0.1.2
 
 # Syntax highlighting & rich console
 pygments==2.19.2
-rich==14.1.0
+rich==13.3.6   # <14 to satisfy Streamlit 1.28.2
