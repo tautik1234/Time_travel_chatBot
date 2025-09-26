@@ -1,0 +1,379 @@
+[
+  {
+    "year": 2015,
+    "event": "Paris Climate Agreement Signed",
+    "date": "2015-12-12",
+    "perspectives": {
+      "Leader": "We negotiated climate goals for our country and celebrated a global commitment to reduce emissions.",
+      "Professional": "As an environmental scientist, I was thrilled. The agreement gave hope for sustainable policies worldwide.",
+      "Student": "I learned about global climate initiatives. It inspired me to take small actions for the planet.",
+      "Villager": "We heard on TV that countries agreed to fight climate change. It made me think about protecting our farmland."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2015,
+    "event": "Nepal Earthquake",
+    "date": "2015-04-25",
+    "perspectives": {
+      "Leader": "We mobilized emergency services and international aid to help survivors.",
+      "Professional": "As a rescue worker, I faced challenging conditions. Saving lives was exhausting but fulfilling.",
+      "Student": "My school was damaged. I volunteered in relief work and learned the importance of helping others.",
+      "Villager": "Our homes were destroyed. Community members came together to rebuild and support each other."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2016,
+    "event": "Brexit Referendum",
+    "date": "2016-06-23",
+    "perspectives": {
+      "Leader": "We debated the future of the UK’s EU membership and prepared for economic implications.",
+      "Professional": "As an economist, I analyzed potential market fluctuations and trade impacts.",
+      "Student": "I followed the news online. The debate sparked my interest in politics and economics.",
+      "Villager": "We heard about the vote on TV. It seemed complicated, but everyone was talking about it in our community."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2016,
+    "event": "Zika Virus Outbreak",
+    "date": "2016-02-01",
+    "perspectives": {
+      "Leader": "We issued public health alerts and coordinated preventive measures.",
+      "Professional": "As a doctor, we treated infected patients and worked on raising awareness about mosquito control.",
+      "Student": "Schools shared information about Zika. I learned how viruses can spread and affect people.",
+      "Villager": "We sprayed our villages to prevent mosquitoes. Many were scared, especially pregnant women."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2017,
+    "event": "Solar Eclipse Across USA",
+    "date": "2017-08-21",
+    "perspectives": {
+      "Leader": "We organized public safety campaigns to ensure citizens viewed the eclipse safely.",
+      "Professional": "As an astronomer, I collected data and shared insights about this rare celestial event.",
+      "Student": "I watched the eclipse through a special filter. It was an awe-inspiring experience.",
+      "Villager": "Many gathered in the open fields to witness it. It was a rare spectacle for everyone."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2017,
+    "event": "#MeToo Movement Gains Momentum",
+    "date": "2017-10-15",
+    "perspectives": {
+      "Leader": "We recognized the need for stricter workplace policies against harassment.",
+      "Professional": "As an HR professional, I had to implement new compliance and support systems.",
+      "Student": "I learned about consent and gender equality through discussions and social media awareness.",
+      "Villager": "Stories on TV made us realize harassment exists everywhere, not just in cities."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2018,
+    "event": "Thai Cave Rescue",
+    "date": "2018-07-10",
+    "perspectives": {
+      "Leader": "We coordinated international teams to support the rescue mission.",
+      "Professional": "As a rescuer, the operation was risky, but the success was worth every effort.",
+      "Student": "I followed updates online and felt inspired by teamwork and courage.",
+      "Villager": "Our community discussed the rescue; it was heartwarming to see unity across nations."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2018,
+    "event": "Yellow Vest Protests in France",
+    "date": "2018-11-17",
+    "perspectives": {
+      "Leader": "Managing public unrest was challenging. Dialogue was essential to understand grievances.",
+      "Professional": "As a journalist, covering the protests was risky but necessary to report the truth.",
+      "Student": "I read news stories and debated economic fairness in class.",
+      "Villager": "We saw images on TV. It made us reflect on how policies affect ordinary lives."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2019,
+    "event": "Notre-Dame Cathedral Fire",
+    "date": "2019-04-15",
+    "perspectives": {
+      "Leader": "We declared restoration plans immediately, safeguarding cultural heritage.",
+      "Professional": "As a firefighter, saving the landmark was a critical and emotional challenge.",
+      "Student": "I watched live coverage. It inspired me to study history and architecture.",
+      "Villager": "We were shocked seeing images on TV. It felt like losing a part of human history."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2019,
+    "event": "Hong Kong Protests",
+    "date": "2019-06-09",
+    "perspectives": {
+      "Leader": "We assessed political and diplomatic consequences of the mass protests.",
+      "Professional": "Reporting from the field was challenging due to the intensity of demonstrations.",
+      "Student": "Following the news, I debated freedom of speech and civil rights in class.",
+      "Villager": "We saw protests on TV. It made us appreciate democratic freedoms and peaceful expression."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+
+
+  {
+    "year": 2020,
+    "event": "COVID-19 Pandemic",
+    "date": "2020-03-11",
+    "perspectives": {
+      "Leader": "As a prime minister, I was under immense pressure. Every decision—closing borders, imposing lockdowns—felt like carrying the weight of millions of lives on my shoulders. I had to balance health with economy.",
+      "Professional": "Hospitals were overflowing. I worked 16-hour shifts in PPE kits, my face bruised, my body exhausted. But saving even one patient gave me strength.",
+      "Student": "Classes shifted online. I missed my friends, my playground. Exams on screens didn’t feel real. But I learned to adapt.",
+      "Villager": "We heard about the virus on radio. Markets were closed, buses stopped. With no daily wages, we struggled to feed our families."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2020,
+    "event": "Australia Bushfires",
+    "date": "2020-01-01",
+    "perspectives": {
+      "Leader": "We declared national emergency, mobilized fire brigades, and requested global aid. Nature’s fury was beyond our control, yet leadership demanded calm.",
+      "Professional": "I documented the devastation—koalas fleeing, forests reduced to ashes. It was proof of climate change, screaming for urgent action.",
+      "Student": "Watching my school turn into an evacuation shelter was surreal. I missed classes, but I saw unity when strangers shared food and blankets.",
+      "Villager": "The fire swallowed our farm overnight. Decades of work turned to smoke. Yet, neighbors stood by us, giving us courage to rebuild."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2020,
+    "event": "Black Lives Matter Protests",
+    "date": "2020-06-01",
+    "perspectives": {
+      "Leader": "As a policymaker, I realized reforms were long overdue. The voices on the streets were powerful reminders of justice delayed.",
+      "Professional": "We were torn—upholding law while confronting our institution’s flaws. It was a time of reflection more than enforcement.",
+      "Student": "For the first time, I joined a protest. Holding a placard, chanting for equality—it made me feel my voice mattered.",
+      "Villager": "From a small town far away, I watched on TV. The movement showed me that injustice anywhere shakes humanity everywhere."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2021,
+    "event": "COVID-19 Second Wave in India",
+    "date": "2021-04-01",
+    "perspectives": {
+      "Leader": "The second wave was more severe. We scrambled for oxygen, medicines, and beds. The nation stood together in the face of adversity.",
+      "Professional": "The situation was dire. We worked tirelessly, witnessing countless lives lost. It was a test of endurance and compassion.",
+      "Student": "Schools remained closed. Online classes became the norm. I missed the physical presence of my friends and teachers.",
+      "Villager": "Hospitals were far, and resources scarce. We relied on community support to get through the crisis."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2021,
+    "event": "India Assumes UNSC Presidency",
+    "date": "2021-08-01",
+    "perspectives": {
+      "Leader": "This was a moment of pride. Leading the UNSC, we advocated for global peace and security, representing the aspirations of the Global South.",
+      "Professional": "It was an opportunity to influence global policy. We pushed for reforms and greater representation in international forums.",
+      "Student": "I followed the sessions online. It inspired me to pursue a career in international relations.",
+      "Villager": "We heard about it on the radio. It made us feel that our country was being recognized on the world stage."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2021,
+    "event": "Approval of COVID-19 Vaccines in India",
+    "date": "2021-01-16",
+    "perspectives": {
+      "Leader": "This was a beacon of hope. We initiated the world's largest vaccination drive, aiming to protect every citizen.",
+      "Professional": "The approval process was rigorous. We ensured the vaccines were distributed efficiently and safely.",
+      "Student": "I was eager to get vaccinated. It felt like a step towards normalcy.",
+      "Villager": "We were initially hesitant, but after awareness campaigns, many of us got vaccinated to protect our families."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2022,
+    "event": "Chandrayaan-3 Mission",
+    "date": "2022-08-23",
+    "perspectives": {
+      "Leader": "This accomplishment showcased our nation's scientific prowess. It was a testament to our commitment to space research.",
+      "Professional": "Years of hard work culminated in this success. It was a proud moment for the entire team.",
+      "Student": "I watched the landing live. It inspired me to dream big and pursue a career in space science.",
+      "Villager": "We didn't fully understand the science, but we celebrated the achievement as a national triumph."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2022,
+    "event": "India Celebrates 75 Years of Independence",
+    "date": "2022-08-15",
+    "perspectives": {
+      "Leader": "This milestone was an opportunity to honor our freedom fighters and reaffirm our commitment to democracy.",
+      "Professional": "It was a moment to reflect on our rich history and the progress we've made.",
+      "Student": "Schools organized events. I learned about our freedom struggle and felt proud of our heritage.",
+      "Villager": "We hoisted the flag in our village. It was a day of unity and celebration."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2022,
+    "event": "Russia-Ukraine War",
+    "date": "2022-02-24",
+    "perspectives": {
+      "Leader": "The war disrupted global peace. We called for dialogue and peaceful resolution.",
+      "Professional": "Covering the war was challenging. The human cost was evident in every story.",
+      "Student": "I followed the news closely. It made me realize the importance of diplomacy and peace.",
+      "Villager": "The war affected global markets. Prices of essentials rose, impacting our daily lives."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2023,
+    "event": "Chandrayaan-3 Soft Landing",
+    "date": "2023-08-23",
+    "perspectives": {
+      "Leader": "This was a historic achievement. It placed India at the forefront of space exploration.",
+      "Professional": "The success was the result of meticulous planning and teamwork.",
+      "Student": "I felt immense pride. It fueled my ambition to work in space research.",
+      "Villager": "We watched the landing on TV. It was a moment of national pride."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2023,
+    "event": "New Parliament Building Inauguration",
+    "date": "2023-05-28",
+    "perspectives": {
+      "Leader": "The new building represents our commitment to democratic values and progress.",
+      "Professional": "Designing the building was an honor. It blends tradition with modernity.",
+      "Student": "We visited the building. It was inspiring to see where decisions shaping our future are made.",
+      "Villager": "We saw the inauguration on TV. It made us feel connected to the nation's governance."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2023,
+    "event": "Supreme Court Upholds Article 370 Abrogation",
+    "date": "2023-11-01",
+    "perspectives": {
+      "Leader": "The decision was a step towards national integration and unity.",
+      "Professional": "The ruling was significant. It set a precedent for constitutional interpretation.",
+      "Student": "We discussed the verdict in class. It sparked debates on federalism and autonomy.",
+      "Villager": "The news reached us through community meetings. It was a topic of widespread discussion."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2024,
+    "event": "India Wins ICC Men's T20 World Cup",
+    "date": "2024-03-31",
+    "perspectives": {
+      "Leader": "The victory united the nation. It was a testament to our sporting spirit.",
+      "Professional": "Winning the World Cup was the culmination of years of hard work and dedication.",
+      "Student": "I celebrated with friends. It was a moment of national pride.",
+      "Villager": "We gathered in the village square to watch the final. The victory was a cause for celebration."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2024,
+    "event": "Historic Elections in Jammu and Kashmir",
+    "date": "2024-10-10",
+    "perspectives": {
+      "Leader": "The elections were a step towards restoring democratic processes in the region.",
+      "Professional": "Conducting the elections was challenging but rewarding. It was a historic moment.",
+      "Student": "I observed the elections. It was enlightening to witness the democratic process firsthand.",
+      "Villager": "We participated in the elections. It felt empowering to have a say in our governance."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  },
+  {
+    "year": 2024,
+    "event": "Border Clashes in Ladakh",
+    "date": "2024-06-15",
+    "perspectives": {
+      "Leader": "We took steps to de-escalate tensions and ensure national security.",
+      "Professional": "The army was vigilant. We trained and prepared to protect the nation's borders.",
+      "Student": "Reading about the clashes, I understood the importance of strategic planning and diplomacy.",
+      "Villager": "News of the clashes made us anxious. We prayed for the safety of our soldiers."
+    },
+    "media": {
+      "image": "",
+      "audio": ""
+    }
+  }
+]
