@@ -431,7 +431,7 @@ def main():
     
     with col2:
         st.markdown("<br>", unsafe_allow_html=True)
-        search_clicked = st.button("🔍 Search Historical Events", use_column_width=True, key="search_btn")
+        search_clicked = st.button("🔍 Search Historical Events", use_container_width=True, key="search_btn")
     
     # Store events in session state to prevent re-fetching
     if search_clicked and year_input:
@@ -466,5 +466,6 @@ def main():
 # Run the app
 if __name__ == "__main__":
     main()
+
 
 
