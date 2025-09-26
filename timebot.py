@@ -318,7 +318,7 @@ def display_events_interface(events, year, perplexity_api_key, gemini_api_key, s
                               selected_event['perspectives'], key="perspective_selector")
     
     # Generate button
-    if st.button("✨ Generate Time Travel Experience", use_column_width=True, key="generate_btn"):
+    if st.button("✨ Generate Time Travel Experience", use_container_width=True, key="generate_btn"):
         with st.spinner("🚀 Creating your time travel experience..."):
             # Generate story (will use KB if available)
             story = generate_story(selected_event, perspective, year, gemini_api_key)
@@ -466,6 +466,7 @@ def main():
 # Run the app
 if __name__ == "__main__":
     main()
+
 
 
 
