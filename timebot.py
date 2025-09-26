@@ -64,7 +64,7 @@ st.markdown("### Journey through history with AI-generated stories, images, and 
 # Hardcoded API Keys
 perplexity_api_key = "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"
 gemini_api_key = "AIzaSyAxLvKFf2ivsR5wckVyW7PacMn_ai1wLzs"
-stability_api_key = "sk-51ubm6b3Hukr5qKnPXU1Zg3YM9pCzm1zQuFTywroAubH8H9t"
+stability_api_key = "sk-UJwptXy73hnck1WyZWThNAKDqExo6QR3vZSktg5dv4HgKW9X"
 
 # KNOWLEDGE BASE CONFIGURATION
 KNOWLEDGE_BASE_FILE = "knowledge_base.json"
@@ -466,3 +466,4 @@ def main():
 # Run the app
 if __name__ == "__main__":
     main()
+
